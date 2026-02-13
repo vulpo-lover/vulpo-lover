@@ -1,11 +1,15 @@
 <h1 align="center">Hi,I'm vulpo-lover</h1>
-- 🔭 I’m currently working on Somewhere "JTC" 
+- 🔭 I'm currently work in the IT department of a "Japanese traditional company" 
 
 - 🌱 I’m currently learning that “learning never ends." :)
 
 - ⚡ Fun fact: I have Heavy body hair:(
 
 - キリ番踏み逃げ厳禁
+
+<h3 align="left">Project in dev:</h3>
+-Discord BOT
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
