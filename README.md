@@ -1,4 +1,5 @@
 <h1 align="center">Hi,I'm vulpo-lover</h1>
+
 - 🔭 I'm currently work in the IT department of a "Japanese traditional company" 
 
 - 🌱 I’m currently learning that “learning never ends." :)
