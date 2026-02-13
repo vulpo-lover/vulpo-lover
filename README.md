@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **that “learning never ends." :)**
 
-- ⚡ Fun fact **I have Heavy body hair:(**
+- ⚡ Fun fact: **I have Heavy body hair:(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
