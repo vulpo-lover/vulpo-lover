@@ -6,7 +6,9 @@
 
 - ⚡ Fun fact: I have Heavy body hair:(
 
-- キリ番踏み逃げ厳禁:3
+- 💻 I've reactivated an old account I made; I have a separate account for work:3 
+
+- キリ番踏み逃げ厳禁（迫真）
 
 <h3 align="left">Project in dev:</h3>
 -Discord BOT <br>
