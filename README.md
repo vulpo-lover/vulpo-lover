@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact: I have Heavy body hair:(
 
-- キリ番踏み逃げ厳禁
+- キリ番踏み逃げ厳禁:3
 
 <h3 align="left">Project in dev:</h3>
 -Discord BOT
