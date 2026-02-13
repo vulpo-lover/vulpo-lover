@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm vulpo-lover</h1>
-- 🔭 I’m currently working on **Somewhere "JTC"**
+- 🔭 I’m currently working on ** Somewhere "JTC" **
 
 - 🌱 I’m currently learning **that “learning never ends." :)**
 
