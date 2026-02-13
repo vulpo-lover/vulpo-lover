@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact: I have Heavy body hair:(
 
-- キリ番踏み逃げ禁止
+- キリ番踏み逃げ厳禁
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
