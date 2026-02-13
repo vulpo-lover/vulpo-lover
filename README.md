@@ -9,8 +9,8 @@
 - キリ番踏み逃げ厳禁:3
 
 <h3 align="left">Project in dev:</h3>
--Discord BOT  
-"Homemade" P2P messenger
+-Discord BOT <br>
+"Homemade" P2P messenger<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
