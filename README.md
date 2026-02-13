@@ -10,7 +10,8 @@
 
 <h3 align="left">Project in dev:</h3>
 -Discord BOT <br>
-"Homemade" P2P messenger<br>
+-"Homemade" P2P messenger<br>
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
