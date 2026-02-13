@@ -10,6 +10,7 @@
 
 <h3 align="left">Project in dev:</h3>
 -Discord BOT
+-"Homemade" P2P messenger
 -
 
 <h3 align="left">Connect with me:</h3>
@@ -22,3 +23,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vulpo-lover&&style=flat-square" align="center" />
 </div>  
+
