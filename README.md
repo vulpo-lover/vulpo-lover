@@ -10,7 +10,7 @@
 
 - A "code" for those who understand Japanese:「キリ番踏み逃げ厳禁」
 
-### If you're looking to hire someone, you'd be better off finding someone else (because I'm just a "shachiku" and a moe-otaku).
+If you're looking to hire someone, you'd be better off finding someone else (because I'm just a "shachiku" and a moe-otaku).
 
 <h3 align="left">Project in dev(just a hobby):</h3>
 -Discord BOT <br>
