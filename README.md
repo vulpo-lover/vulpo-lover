@@ -11,7 +11,6 @@
 <h3 align="left">Project in dev:</h3>
 -Discord BOT
 -"Homemade" P2P messenger
--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
