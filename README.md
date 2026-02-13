@@ -1,6 +1,4 @@
 <h1 align="center">Hi,I'm vulpo-lover</h1>
-<h3 align="center">なんと、社畜</h3>
-
 - 🔭 I’m currently working on **Somewhere "JTC"**
 
 - 🌱 I’m currently learning **that “learning never ends." :)**
